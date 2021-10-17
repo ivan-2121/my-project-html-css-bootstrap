@@ -1,0 +1,711 @@
+li{
+	list-style: none;
+}
+.x1{
+	/*border: 1px solid red;*/
+	height: 70px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0!important;
+}
+.logo{
+	color: #808080;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: 'Prompt', sans-serif;
+}
+.logo:hover{
+	color: black;
+	transition: 0.6s;
+	cursor: pointer;
+}
+.ul1{
+	/*border: 1px solid red;*/
+	display: flex;
+}
+.li1{
+	margin-left: 30px;
+	font-size: 16px;
+}
+.li1:hover{
+	color: #B0A7A0;
+	transition: 0.7s;
+	transform: rotate3d(1, 1, 1, 5deg);
+	cursor: pointer;
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*////girl 1, fashion, Fashion Trends////*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.x2{
+	/*border: 1px solid red;*/
+	height: 1330px;
+	padding: 0!important;
+	display: flex;
+	justify-content: space-between;
+}
+.div1{
+	/*border: 1px solid red;*/
+	width: 565px;
+	height: 1330px;
+}
+.girl1{
+	width: 100%;
+	max-width: 566px;
+}
+.div-photo-by{
+	background-color: #292F33;
+	height: 70px;
+	width: 100%;
+	display: flex;
+	max-width: 566px;
+	align-items: center;
+}
+.p1{
+	color: white;
+	font-size: 16px;
+	margin-left: 25px;
+	letter-spacing: 0.5px;
+	font-weight: bold;
+}
+.link1{
+	color: #C1D9EB;
+}
+.link1:hover{
+	color: white;
+	text-decoration: none;
+}
+.fashion-div{
+	/*border: 1px solid black;*/
+	width: 100%;
+	max-width: 566px;
+	height: 340px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+.div2{
+	/*border: 1px solid red;*/
+	width: 565px;
+	height: 1300px;
+}
+.div2a{
+	/*border: 1px solid black;*/
+	width: 100%;
+	height: 600px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.prosto1{
+	background-color: #E8DCCE;
+	width: 15px;
+	height: 380px;
+}
+.text1{
+	/*border: 1px solid green;*/
+	width: 92%;
+	font-style: italic;
+	font-size: 20px;
+	line-height: 35px;
+}
+.div2b{
+	background-color: #292F33;
+	height: 640px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div2bb{
+	height: 85%;
+	width: 86%;
+	border: 1px solid white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div2bbb{
+	/*border: 1px solid #F2DBC8;*/
+	height: 65%;
+	width: 80%;
+	color: #F2DBC8;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+.p2{
+	font-size: 55px;
+	font-family: serif;
+}
+.p3{
+	font-size: 21px;
+	text-align: center;
+	line-height: 32px;
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*/////girl 2,3,4,5,6 nkarnerov hatvac///*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.x3{
+	/*border: 1px solid red;*/
+	padding: 0!important;
+	height: 800px;
+	display: flex;
+	justify-content: space-between;
+}
+.girl2{
+	width: 100%;
+	max-width: 566px;
+}
+.div3{
+	/*border: 1px solid red;*/
+	width: 565px;
+	height: 800px;
+}
+.div4{
+	/*border: 1px solid green;*/
+	width: 565px;
+	height: 800px;
+}
+.girls4{
+	width: 100%;
+	height: 696.3px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.girl3456{
+	width: 265px;
+	height: 328px;
+}
+.div4a{
+	/*border: 1px solid blue;*/
+	width: 100%;
+	height: 328px;
+	display: flex;
+	justify-content: space-between;
+}
+.div4b{
+	/*border: 1px solid red;*/
+	width: 100%;
+	height: 328px;
+	display: flex;
+	justify-content: space-between;
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*////////////// big O1 text ////////////*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.x4{
+	/*border: 1px solid blue;*/
+	height: 580px;
+	padding: 0!important;
+	display: flex;
+	justify-content: space-between;
+}
+.div5{
+	background-color: #E8C1A2;
+	width: 565px;
+	height: 500px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+	position: relative;
+}
+.div5a{
+	/*border: 1px solid black;*/
+	width: 450px;
+	height: 364px;
+	position: absolute;
+	right: 10px;
+	bottom: 20px;
+}
+.par01{
+	font-size: 130px;
+	font-weight: bold;
+	color: black;
+	font-family: serif;
+	margin-top: 0px;
+}
+.par02{
+	font-size: 40px;
+	font-family: serif;
+	color: black;
+	line-height: 40px;
+}
+.div6{
+	/*border: 1px solid red;*/
+	width: 565px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div6a{
+	/*border: 1px solid green;*/
+	width: 75%;
+	height: 90%;
+}
+.p6a{
+	font-size: 22px;
+	line-height: 40px;
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*/////////// girl 7,8,9 .png ///////////*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.x5{
+	/*border: 1px solid blue;*/
+	height: 950px;
+	padding: 0!important;
+	display: flex;
+	justify-content: space-between;
+}
+.div7{
+	/*border: 1px solid red;*/
+	height: 909px;
+	width: 565px;
+}
+.girl7{
+	width: 100%;
+	min-height: 850px;
+}
+.div8{
+	/*border: 1px solid green;*/
+	width: 565px;
+	height: 909px;
+	position: relative;
+}
+.girl8{
+	width: 262px;
+	height: 400px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.girl9{
+	width: 262px;
+	height: 400px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.loremdiv{
+	/*border: 1px solid red;*/
+	position: absolute;
+	right: 20px;
+	bottom: 180px;
+	width: 220px;
+	height: 262px;
+}
+.pl1{
+	font-style: italic;
+	font-size: 16px;
+	line-height: 26px;
+}
+.pl2{
+	font-weight: bold;
+	font-size: 18px;
+	margin-top: 25px;
+}
+.link2{
+	color: #305470;
+}
+.link2:hover{
+	text-decoration: none;
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*/////////// girl10.png ///////////*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.x6{
+	/*border: 1px solid blue;*/
+	height: 814px;
+	display: flex;
+	justify-content: space-between;
+	padding-right: 0!important;
+}
+.div9{
+	/*border: 1px solid red;*/
+	width: 550px;
+	height: 724px;
+}
+.pv1{
+	font-weight: bold;
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	margin-top: 15px;
+}
+.link3{
+	color: #305470;
+}
+.link3:hover{
+	text-decoration: none;
+}
+.div9a{
+	/*border: 1px solid green;*/
+	width: 93%;
+	margin-top: 70px;
+}
+.pv2{
+	font-style: italic;
+	font-size: 20px;
+	line-height: 35px;
+}
+.div10{
+	/*border: 1px solid black;*/
+	height: 724px;
+	width: 570px;
+}
+.girl10{
+	width: 100%;
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*////////////// big O2 text ////////////*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.x7{
+	/*border: 1px solid blue;*/
+	height: 590px;
+	padding: 0!important;
+	display: flex;
+	justify-content: space-between;
+}
+.div11{
+	/*border: 1px solid red;*/
+	background-color: #305470;
+	width: 565px;
+	height: 500px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+	position: relative;
+}
+.div11a{
+	/*border: 1px solid black;*/
+	width: 450px;
+	height: 364px;
+	position: absolute;
+	right: 10px;
+	bottom: 20px;
+}
+.par03{
+	font-size: 130px;
+	font-weight: bold;
+	color: white;
+	font-family: serif;
+	margin-top: 0px;
+	letter-spacing: 10px;
+}
+.par04{
+	font-size: 40px;
+	font-family: serif;
+	color: white;
+	line-height: 40px;
+}
+.div12{
+	/*border: 1px solid red;*/
+	width: 565px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div12a{
+	/*border: 1px solid green;*/
+	width: 90%;
+	height: 90%;
+	display: flex;
+	align-items: flex-end;
+}
+.p12a{
+	font-size: 22px;
+	line-height: 35px;
+}
+/*///////////////////////////////////////////*/
+/*///////////////////////////////////////////*/
+/*///// Fashio Trends 2, girl 11,12,13 //////*/
+/*///////////////////////////////////////////*/
+/*///////////////////////////////////////////*/
+.x8{
+	/*border: 1px solid blue;*/
+	height: 965px;
+	padding: 0!important;
+	display: flex;
+	justify-content: space-between;
+}
+.a8{
+	height: 1050px;
+}
+.div13{
+	/*border: 1px solid red;*/
+	width: 565px;
+	height: 965px;
+	display: flex;
+	align-items: flex-end;
+}
+.div13a{
+	background-color: #292F33;
+	height: 640px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div13aa{
+	height: 85%;
+	width: 86%;
+	border: 1px solid white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div13aaa{
+	/*border: 1px solid #F2DBC8;*/
+	height: 65%;
+	width: 80%;
+	color: #F2DBC8;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+.p2{
+	font-size: 55px;
+	font-family: serif;
+}
+.p3{
+	font-size: 21px;
+	text-align: center;
+	line-height: 32px;
+}
+.div14{
+	/*border: 1px solid green;*/
+	width: 565px;
+	height: 965px;
+	display: flex;
+	align-items: flex-end;
+	position: relative;
+}
+.girl11{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.girl12{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.girl13{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*////////////// big O3 text ////////////*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.x9{
+	/*border: 1px solid blue;*/
+	height: 590px;
+	padding: 0!important;
+	display: flex;
+	justify-content: space-between;
+}
+.div15{
+	/*border: 1px solid red;*/
+	background-color: #7B462C;
+	width: 565px;
+	height: 500px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+	position: relative;
+}
+.div15a{
+	/*border: 1px solid black;*/
+	width: 450px;
+	height: 364px;
+	position: absolute;
+	right: 10px;
+	bottom: 20px;
+}
+.par05{
+	font-size: 130px;
+	font-weight: bold;
+	color: white;
+	font-family: serif;
+	margin-top: 0px;
+	letter-spacing: 10px;
+}
+.par06{
+	font-size: 40px;
+	font-family: serif;
+	color: white;
+	line-height: 40px;
+}
+.div16{
+	/*border: 1px solid red;*/
+	width: 565px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div16a{
+	/*border: 1px solid green;*/
+	width: 90%;
+	height: 90%;
+	display: flex;
+	align-items: flex-end;
+}
+.p16a{
+	line-height: 35px;
+	font-size: 22px;
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*////////// Sample Footer text /////////*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.a10{
+	height: 260px;
+	background-color: #324452;
+}
+.x12{
+	/*border: 1px solid red;*/
+	height: 260px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.divf1{
+	/*border: 1px solid white;*/
+	height: 140px;
+	width: 1170px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+.ul2{
+	/*border: 1px solid green;*/
+	display: flex;
+	padding: 0;
+}
+.li2{
+	margin-left: 30px;
+	margin-right: 30px;
+	color: white;
+	font-size: 16px;
+}
+.li2:hover{
+	color: #B0A7A0;
+	transition: 0.7s;
+	transform: rotate3d(1, 1, 1, 3deg);
+	cursor: pointer;
+}
+.icons{
+	/*border: 1px solid red;*/
+	/*height: 70px;*/
+	width: 150px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.fa{
+	color: white;
+}
+.fa.fa-facebook{
+	font-size: 20px;
+}
+.fa.fa-twitter{
+	font-size: 20px;
+}
+.fa.fa-instagram{
+	font-size: 20px;
+}
+.fa.fa-linkedin{
+	font-size: 20px;
+}
+.fa-facebook:hover{
+  color: #3B5998;
+  opacity: 0.7;
+  text-decoration: none;
+  transition: 0.5s;
+  transform: rotate(-2deg);
+}
+
+.fa-twitter:hover{
+  color: #55ACEE;
+  opacity: 0.7;
+  text-decoration: none;
+  transition: 0.8s;
+  transform: rotate(-12deg);
+}
+.fa-instagram:hover{
+  color: #125688;
+  opacity: 0.7;
+  text-decoration: none;
+  transition: 0.5s;
+  transform: rotate(-2deg);
+}
+.fa-linkedin:hover{
+  color: #007bb5;
+  opacity: 0.7;
+  text-decoration: none;
+  transition: 0.5s;
+  transform: rotate(-2deg);
+}
+.pf1{
+	color: white;
+	font-size: 18px;
+	margin-bottom: 0;
+}
+.fas.fa-bars{
+	font-size: 30px;
+	color: white;
+	display: none;
+}
+.fas.fa-bars:hover{
+	font-weight: bold;
+	transition: 1s;
+	cursor: pointer;
+	transform: rotateZ(180deg);
+}
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+/*//////////  The end (footer) /////////*/
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+.yf{
+	background-color: #333333;
+	height: 102px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.spanf{
+	font-size: 14px;
+	color: floralwhite;
+}
+.linkf1{
+	color: #C1D9EB;
+	text-decoration: underline;
+}
+.linkf2{
+	color: #C1D9EB;
+	text-decoration: underline;
+}

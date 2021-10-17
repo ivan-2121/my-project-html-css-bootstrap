@@ -1,0 +1,273 @@
+@media (min-width: 481px) and (max-width: 767px) {
+	.x1{
+		display: flex;
+		justify-content: space-around;
+	}
+	.logo{
+		font-size: 40px;
+	}
+	.ul1{
+		display: flex;
+		flex-direction: column;
+	}
+	.li1{
+		margin-left: 0;
+	}
+	.x1{
+		height: 200px;
+	}
+	.x2{
+		height: 2390px;
+		display: flex;
+		flex-direction: column;
+	}
+	.div-photo-by{
+		height: 150px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.p1{
+		font-size: 25px;
+	}
+	.div1{
+		width: 100%;
+	}
+	.div2{
+		width: 100%;
+	}
+	.div2b{
+		max-width: 566px;
+	}
+	.fashion-div{
+		height: 435px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.div2a{
+		height: 390px;
+		width: 100%;
+	}
+	.div2bbb{
+		width: 90%;
+	}
+	.girl2{
+		min-height: 660px;
+	}
+	.div3{
+		width: 100%;
+	}
+	.div4{
+		width: 100%;
+	}
+	.x3{
+		height: 1450px;
+		display: flex;
+		flex-direction: column;
+	}
+	.girl3456{
+		max-width: 240px;
+	}
+	.girls4{
+		height: 659px;
+		width: 100%;
+	}
+	.div4a{
+		max-width: 566px;
+	}
+	.div4b{
+		max-width: 566px;
+	}
+	.x4{
+		display: flex;
+		flex-direction: column;
+		height: 950px;
+	}
+	.div5{
+		width: 100%;
+		max-width: 566px;
+	}
+	.div6{
+		width: 100%;
+		min-width: 400px;
+		display: flex;
+		justify-content: flex-start;
+		height: 400px;
+	}
+	.p6a{
+		line-height: 35px;
+	}
+	.div5a{
+		bottom: 50px;
+		left: 15px;
+	}
+	.div6a{
+		width: 100%;
+		max-width: 566px;
+	}
+	.girl7{
+		max-width: 566px;
+		min-height: 900px;
+	}
+	.div7{
+		width: 100%;
+	}
+	.div8{
+		width: 100%;
+		max-width: 566px;
+		height: 860px;
+		position: relative;
+	}
+	.x5{
+		height: 1800px;
+		display: flex;
+		flex-direction: column;
+	}
+	.girl8{
+		max-height: 370px;
+		max-width: 240px;
+	}
+	.girl9{
+		position: absolute;
+		left: 0;
+		top: 400px;
+		max-height: 370px;
+		max-width: 240px;
+	}
+	.loremdiv{
+		bottom: 350px;
+		max-width: 200px;
+	}
+	.girl10{
+		max-height: 724px;
+		max-width: 566px;
+	}
+	.div9{
+		width: 100%;
+		height: 400px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.div10{
+		width: 100%;
+		display: flex;
+		align-items: center;
+	}
+	.x6{
+		display: flex;
+		flex-direction: column;
+		height: 1150px;
+		padding: 0!important;
+	}
+	.x7{
+		display: flex;
+		flex-direction: column;
+		height: 900px;
+	}
+	.div11{
+		width: 100%;
+		max-width: 566px;
+	}
+	.div11a{
+		bottom: 50px;
+		left: 15px;
+	}
+	.div12{
+		width: 100%;
+		min-width: 400px;
+		display: flex;
+		justify-content: flex-start;
+		height: 400px;
+	}
+	.p12a{
+		line-height: 35px;
+	}
+	.div12a{
+		bottom: 50px;
+		left: 15px;
+		width: 100%;
+		max-width: 566px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.div13{
+		display: flex;
+		align-items: flex-start;
+		height: 730px;
+		width: 100%;
+		max-width: 566px;
+	}
+	.girl11{
+		min-height: 480px;
+		max-height: 520px;
+	}
+	.div14{
+		width: 100%;
+		max-width: 566px;
+		height: 900px;
+	}
+	.girl12{
+		max-width: 235px;
+	}
+	.girl13{
+		max-width: 235px;
+	}
+	.x8{
+		display: flex;
+		flex-direction: column;
+		height: 1650px;
+	}
+	.a8{
+		height: 1750px;
+	}
+	.div13aaa{
+		width: 90%;
+	}
+	.x9{
+		display: flex;
+		flex-direction: column;
+		height: 900px;
+	}
+	.div15{
+		width: 100%;
+		max-width: 566px;
+	}
+	.div15a{
+		bottom: 50px;
+		left: 15px;
+	}
+	.div16{
+		width: 100%;
+		min-width: 400px;
+		display: flex;
+		justify-content: flex-start;
+		height: 400px;
+	}
+	.p16a{
+		line-height: 35px;
+	}
+	.div16a{
+		bottom: 50px;
+		left: 15px;
+		width: 100%;
+		max-width: 566px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.ul2{
+		display: none;
+	}
+	.fas.fa-bars{
+		display: block;
+	}
+	.divf1{
+		height: 170px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+}

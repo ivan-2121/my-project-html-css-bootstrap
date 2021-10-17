@@ -1,0 +1,172 @@
+@media (min-width: 768px) and (max-width: 1024px)  { 
+	.x1{
+		display: flex;
+		justify-content: space-around;
+	}
+	.logo{
+		font-size: 40px;
+	}
+	.ul1{
+		display: flex;
+		flex-direction: column;
+	}
+	.li1{
+		margin-left: 0;
+	}
+	.x1{
+		height: 200px;
+	}
+	.div2b{
+		max-width: 566px;
+	}
+	.div2a{
+		height: 390px;
+	}
+	.girls4{
+		height: 659px;
+		width: 100%;
+	}
+	.x3{
+		height: 1480px;
+		display: flex;
+		flex-direction: column;
+	}
+	.girl3456{
+		max-width: 240px;
+		height: 300px;
+	}
+	.x2{
+		height: 2350px;
+		display: flex;
+		flex-direction: column;
+	}
+	.div3a{
+		max-width: 566px;
+	}
+	.div4a{
+		max-width: 566px;
+	}
+	.x4{
+		display: flex;
+		flex-direction: column;
+		height: 1100px;
+	}
+	.div5{
+		max-width: 566px;
+	}
+	.div5a{
+		bottom: 50px;
+		left: 15px;
+	}
+	.div6{
+		display: flex;
+		justify-content: center;
+	}
+	.x5{
+		height: 1900px;
+		display: flex;
+		flex-direction: column;
+	}
+	.loremdiv{
+		right: 170px;
+		bottom: 100px;
+	}
+	.div8{
+		height: 860px;
+	}
+	.girl10{
+		max-height: 724px;
+		max-width: 566px;
+	}
+	.div9{
+		width: 100%;
+		height: 400px;
+		max-width: 566px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.div10{
+		width: 100%;
+		display: flex;
+		align-items: center;
+	}
+	.x6{
+		display: flex;
+		flex-direction: column;
+		height: 1150px;
+		padding: 0!important;
+	}
+	.x7{
+		display: flex;
+		flex-direction: column;
+		height: 900px;
+	}
+	.div11{
+		max-width: 566px;
+	}
+	.div11a{
+		bottom: 50px;
+		left: 15px;
+	}
+	.div12{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		height: 400px;
+	}
+	.div13{
+		display: flex;
+		align-items: flex-start;
+		height: 730px;
+		width: 100%;
+		max-width: 566px;
+	}
+	.girl11{
+		min-height: 480px;
+		max-height: 520px;
+	}
+	.div14{
+		width: 100%;
+		max-width: 566px;
+		height: 1000px;
+	}
+	.x8{
+		display: flex;
+		flex-direction: column;
+		height: 1650px;
+	}
+	.a8{
+		height: 1750px;
+	}
+	.x9{
+		display: flex;
+		flex-direction: column;
+		height: 900px;
+	}
+	.div15{
+		max-width: 566px;
+	}
+	.div15a{
+		bottom: 50px;
+		left: 15px;
+	}
+	.div16{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		height: 400px;
+	}
+	.ul2{
+		display: none;
+	}
+	.fas.fa-bars{
+		display: block;
+	}
+	.divf1{
+		height: 170px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+}
